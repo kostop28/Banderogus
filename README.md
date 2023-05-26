@@ -1,3 +1,4 @@
 # Banderogus
 game about ukrainian gus
-http://photo_2023-05-26_15-21-03.jpg
+https://github.com/jon/coolproject/raw/master/image/image.png)
+https://github.com/kostop28/Banderogus/edit/main/README.md
